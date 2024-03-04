@@ -1,27 +1,19 @@
 :root {
-    /* Phông chữ */
     --font_family: 'Inter', sans-serif;
-  
-    /* Cỡ chữ */
     --font_size: 16px;
-  
-    /* Màu nền */
     --background_color: #000;
     --background_image: url("img/wallpaper.jpg");
-  
-    /* Độ dày khung - màu logo */
+    
+    /* Logo */
     --image_border_color: #fffefe;
     --image_border_px: 3px;
-  
-    /* Dài-rộng logo */
     --image_width: 150px;
     --image_height: 150px;
-  
-    /* Màu tiêu đề */
+    
     --title_color: #fff;
     --description_color: #f1c40f;
   
-    /* Màu biểu tượng xã hội */
+    /* Social Media Icons */
     --svg_color: #fff;
     /* Màu nền - màu văn bản - màu nút */
     --button_background_color: #0e0e0e;
@@ -157,7 +149,7 @@
     margin-left: 0.4em;
   }
   
-  /* Menu Container */
+  /* Menu */
   
   main {
     margin-bottom: auto;
@@ -226,24 +218,8 @@
     text-align: center;
     cursor: pointer;
   }
-  /* Responsive */
-  
-  @media (max-width: 768px) { 
-    .main_text_item {
-      width: 92vw;
-    }
-  
-    .main_small_button_item {
-      width: calc(92vw / 2 - 5px);;
-    }
-  
-    .main_button_item {
-      width: 92vw;
-    }
-    
     .header_h_item {
       width: 92vw;
       text-align: center;
-    }
-    
+    } 
   }
