@@ -1,5 +1,5 @@
 :root {
-    /* Họ phông chữ trong toàn bộ thiết kế */
+    /* Phông chữ */
     --font_family: 'Inter', sans-serif;
   
     /* Cỡ chữ */
@@ -9,11 +9,11 @@
     --background_color: #000;
     --background_image: url("img/wallpaper.jpg");
   
-    /* Độ dày khung - màu sắc logo */
+    /* Độ dày khung - màu logo */
     --image_border_color: #fffefe;
     --image_border_px: 3px;
   
-    /* Dài-rộng của logo */
+    /* Dài-rộng logo */
     --image_width: 150px;
     --image_height: 150px;
   
