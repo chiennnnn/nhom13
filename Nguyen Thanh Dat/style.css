@@ -13,9 +13,9 @@
     --title_color: #fff;
     --description_color: #f1c40f;
   
-    /* Social Media Icons */
+    /* Icons */
     --svg_color: #fff;
-    /* Màu nền - màu văn bản - màu nút */
+    /* Backround - Text - Nút */
     --button_background_color: #0e0e0e;
     --button_text_color: #fff;
     --button_text_hover_color: #f1c40f;
@@ -89,7 +89,7 @@
     font-size: 1.5em;
   }
   
-  /* Social Media Icons */
+  /* Icons */
   
   .header_svg_list {
     padding-top: 1em;
@@ -119,12 +119,6 @@
   #header_nav_menu_item_1 {
     color: var(--menu_active_text_color);
   }
-  
-  #header_nav_menu_item_2,
-  #header_nav_menu_item_3 {
-    color: var(--menu_text_color);
-  }
-  
   
   .header_nav_menu_list {
     padding-top: 1em;
