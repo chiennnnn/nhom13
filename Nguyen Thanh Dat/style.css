@@ -28,8 +28,7 @@
     --button_text_color: #fff;
     --button_text_hover_color: #f1c40f;
   }
-  
-  /* Basic Codes */
+
   * {
     box-sizing: border-box;
     margin: 0;
@@ -74,7 +73,7 @@
     align-items: center;
   }
   
-  /* Logo, Title and Description Codes */
+  /* Logo, Title and Description */
   
   .header_img {
     padding-top: 1em;
@@ -98,7 +97,7 @@
     font-size: 1.5em;
   }
   
-  /* Social Media Icons Codes */
+  /* Social Media Icons */
   
   .header_svg_list {
     padding-top: 1em;
@@ -123,7 +122,7 @@
     fill: var(--svg_color);
   }
   
-  /* Menu Codes */
+  /* Menu */
   
   #header_nav_menu_item_1 {
     color: var(--menu_active_text_color);
@@ -158,7 +157,7 @@
     margin-left: 0.4em;
   }
   
-  /* Menu Container Codes */
+  /* Menu Container */
   
   main {
     margin-bottom: auto;
@@ -227,7 +226,7 @@
     text-align: center;
     cursor: pointer;
   }
-  /* Responsive Codes */
+  /* Responsive */
   
   @media (max-width: 768px) { 
     .main_text_item {
