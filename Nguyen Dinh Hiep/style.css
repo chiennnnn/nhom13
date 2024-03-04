@@ -1,4 +1,9 @@
-    body {background-image: url(nen1.jpg);}
+    body {
+      background-image: url(nen5.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+    }
     .thongtin{
       div {width: 30%;display: inline-block;}
     }
