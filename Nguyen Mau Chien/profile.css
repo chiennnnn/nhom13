@@ -1,0 +1,17 @@
+.home {
+    display: grid;
+    grid-template-columns: 23% 70%;
+    float:left;
+    background-color: white;
+    margin-left: 5%;
+    border-radius: 20px;
+    border: 2px solid black;
+    padding: 20px;
+}
+.right{
+    margin: 10px;
+    width: 700px;
+}
+body{
+    background-image: url(https://intoroigiare.vn/wp-content/uploads/2023/11/phong-dep.jpg);
+}
